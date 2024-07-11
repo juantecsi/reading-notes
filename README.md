@@ -1,6 +1,6 @@
 # reading-notes
 
-# ¿Que es el Grouwth Mindset?
+# ¿Que es el Growth Mindset?
 
 ## El Growth Mindset o mentalidad de crecimiento es la capacidad de seguir aprendiendo a pesar de los obstaculos, no darse por vencido ayuda a alcanzar metas mas altas.
 
