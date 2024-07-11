@@ -10,4 +10,6 @@
 ## La satisfaccion de superar ese instante de pereza y lograr su meta obteniendo energia y enfoque.
 ## Para superar los desafios se logran en base a la paciencia y no caer en el conformismo.
 
-![C:\Users\My PC\Downloads\istockphoto-184931992-1024x1024.jpg]
+../C:\Users\My PC\Downloads\istockphoto-184931992-1024x1024.jpg
+
+
