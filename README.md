@@ -12,3 +12,5 @@
 
 ![crecimiento](https://media.istockphoto.com/id/184931992/es/foto/sequ%C3%ADa.jpg?s=1024x1024&w=is&k=20&c=SklPgXtEO071SFgOKT6adr0kOtcNPPNugs1VjYGNAxo=)
 
+## Laboratorio 2: Practicando git
+
